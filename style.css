@@ -402,7 +402,7 @@
     }
   }
   
-  /* -- YouTube Link Styles -- */
+
   
   body.menu-toggled > .meta-link {
     background-color: rgba(255, 255, 255, 0.05);
@@ -532,7 +532,7 @@
 
 @media (max-width: 767px){
   #h1 {
-   font-size: 60px;
+   font-size: 40px;
    padding-top: 30px;
    padding-bottom: 30px;
   }
@@ -550,7 +550,6 @@
   font-family: habibi;
   padding-bottom: 5px;
   font-weight: 500;
-  text-transform: uppercase;
 }
 
 .div .customers h1 {
@@ -599,7 +598,7 @@
 
 .examples .left-side h1 {
   font-weight: 600;
-  font-size: 55px;
+  font-size: 50px;
   line-height: 55px;
   padding-top: 10px;
   padding-bottom: 10px;
@@ -643,7 +642,7 @@
 
 .examples .right-side-text h1 {
   font-weight: 600;
-  font-size: 55px;
+  font-size: 50px;
   line-height: 55px;
   padding-top: 10px;
   padding-bottom: 10px;
@@ -787,7 +786,7 @@
 
 @media (max-width: 767px){
   #button-1 {
-   font-size: 25px;
+   font-size: 20px;
   }
 }
 
@@ -810,6 +809,12 @@
    font-size: 50px;
    padding-top: 20px;
    padding-bottom: 20px;
+  }
+}
+
+@media (max-width: 767px){
+  #h1-size {
+ font-size: 40px;
   }
 }
 
@@ -942,7 +947,7 @@
   #padding {
     padding-top: 15px;
     padding-bottom: 15px;
-    font-size: 25px;
+    font-size: 20px;
     line-height: 35px;
   }
 }
